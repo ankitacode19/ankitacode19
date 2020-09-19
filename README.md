@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Data Structures and Algorithms in Java and Web Development 😇!!
-
+🌱 I’m currently learning Data Structures and Algorithms in Java and Web Development 😇!!
+<br><br>
 <a href="https://www.hackerrank.com/ankitacoder2004" target="_blank" title="Redirect to homepage">
-                <img height="32px" width="32px"
+                <img height="50px" width="50px"
                     src="https://res.cloudinary.com/dnv3ztqf1/image/upload/v1599229238/for%20github%20profile/HackerRank_logo_clbbjf.svg" /></a>
        
 <!--
