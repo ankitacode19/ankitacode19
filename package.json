@@ -1,0 +1,24 @@
+{
+  "name": "youtube-audio-streamer",
+  "version": "1.0.0",
+  "description": "A web app that streams audio from YouTube videos",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "youtube-dl-exec": "^2.4.13",
+    "cors": "^2.8.5",
+    "multer": "^1.4.5-lts.1",
+    "path": "^0.12.7",
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "keywords": ["youtube", "audio", "streaming", "node", "express"],
+  "author": "Ankita Yadav",
+  "license": "MIT"
+}
